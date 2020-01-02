@@ -864,6 +864,7 @@ project "Tests"
     "src/common/*.cpp",
     "src/common/*.h",
     -- main sources
+    "src/ConEmu/HotkeyChord.cpp",
     -- "src/ConEmu/helper.cpp",
     -- "src/ConEmu/DynDialog.cpp",
     -- "src/ConEmu/HotkeyChord.cpp",
